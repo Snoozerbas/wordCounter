@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">wordCounter</string>
+    <string-array name="Skaiciavimo_tipas">
+        <item>Zodziai</item>
+        <item>Zenklai</item>
+
+    </string-array>
+</resources>
